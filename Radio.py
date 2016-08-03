@@ -41,4 +41,4 @@ class Radio():
 			self.en_FM=False
 		else:
 			self.en_FM=True
-				
+
