@@ -1,7 +1,7 @@
 class Radio():
 	def __init__(self, marca):
 		self.marca=marca
-		self.encendido=False
+		self.encendido=True
 		self.emisoraFM=87
 		self.emisoraAM=300
 		self.volumen=0
